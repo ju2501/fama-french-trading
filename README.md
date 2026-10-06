@@ -45,8 +45,3 @@ python -m stock_ff5 backtest --data stock_ff5/data/demo --out stock_ff5/output/d
 
 기존 노트북의 현재 API 호환성과 실제 거래 실행은 검증하지 않았습니다.
 인증정보는 코드·노트북 출력·Git에 저장하지 마세요.
-
-## 정리 이력
-
-트레이딩과 무관한 LLM·OpenCV·약학·단백질 설계 실습 폴더를 현재 브랜치에서 정리했습니다.
-이전 파일은 Git 커밋 기록에서 확인할 수 있습니다.
